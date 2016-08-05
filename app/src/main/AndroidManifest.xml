@@ -17,7 +17,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".WebpageActivity"></activity>
+        <activity android:name=".WebpageActivity" />
+        <activity android:name=".TstoreActivity"></activity>
     </application>
 
 </manifest>

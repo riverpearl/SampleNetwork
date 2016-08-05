@@ -2,4 +2,8 @@
     <string name="app_name">SampleNetwork</string>
     <string name="title_webpage_activity">WEBPAGE ACTIVITY</string>
     <string name="title_google">GOOGLE</string>
+    <string name="title_tstore_activity">TSTORE ACTIVITY</string>
+    <string name="title_search">SEARCH</string>
+    <string name="title_like">like</string>
+    <string name="title_download">download</string>
 </resources>
