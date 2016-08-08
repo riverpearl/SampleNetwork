@@ -18,7 +18,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".WebpageActivity" />
-        <activity android:name=".TstoreActivity"></activity>
+        <activity android:name=".TstoreActivity" />
+        <activity android:name=".TStoreManagerActivity"></activity>
     </application>
 
 </manifest>
